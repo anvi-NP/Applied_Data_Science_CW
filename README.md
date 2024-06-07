@@ -1,6 +1,6 @@
 # Applied_Data_Science_CW
 Islington College 2nd Year CW. BIT-Artificial Intelligence Faculty
 
-Author:-Aasutosh Kumar Verma
+Author:-Aasutosh Kumar Verma<br>
 Subject:-Applied Data Science
-<br>
+
